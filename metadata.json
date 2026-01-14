@@ -1,0 +1,9 @@
+{
+  "name": "Mkulima Smart",
+  "description": "A comprehensive agri-tech platform for modern farmers featuring AI-driven pest analysis, weather advisory, and market intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
